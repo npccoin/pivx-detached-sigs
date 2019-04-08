@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# npccoin-detached-sigs
